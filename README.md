@@ -10,19 +10,12 @@ MicroSense: The Micro Expression Detector is a deep learning-based project desig
 - High accuracy in detecting subtle facial expressions.
 - User-friendly interface for video upload and analysis.
 
-
-## Demo
-### **Micro-Expression Detection in Action**
-![MicroSense Demo](assets/Demo1.gif)
-
 ### **User Interface & Workflow**
 ![User Interface Demo](assets/UI.gif)
 
 ## Installation
 1. *Clone the repository*
-    ```python
-    git clone https://github.com/yogeshsumman/Micro-Expression-Detector.git
-    ```
+
 2. Make sure you have python 3.11 and pip installed in your machine.
 3. Install the required dependencies using pip:
     ```bash
@@ -49,9 +42,6 @@ We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
-
-## Contact
-If you have any questions or need further assistance, please contact our support team at yogeshsumman2001@gmail.com.
 
 ## Tech Stack
 
